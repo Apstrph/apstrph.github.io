@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/apsthrph.github.io/my-app/static/css/main.eeb8520e.chunk.css",
+    "main.js": "/apsthrph.github.io/my-app/static/js/main.f2867a91.chunk.js",
+    "main.js.map": "/apsthrph.github.io/my-app/static/js/main.f2867a91.chunk.js.map",
+    "runtime-main.js": "/apsthrph.github.io/my-app/static/js/runtime-main.a75a3181.js",
+    "runtime-main.js.map": "/apsthrph.github.io/my-app/static/js/runtime-main.a75a3181.js.map",
+    "static/css/2.55d8add8.chunk.css": "/apsthrph.github.io/my-app/static/css/2.55d8add8.chunk.css",
+    "static/js/2.5f162113.chunk.js": "/apsthrph.github.io/my-app/static/js/2.5f162113.chunk.js",
+    "static/js/2.5f162113.chunk.js.map": "/apsthrph.github.io/my-app/static/js/2.5f162113.chunk.js.map",
+    "static/js/3.7060ffe5.chunk.js": "/apsthrph.github.io/my-app/static/js/3.7060ffe5.chunk.js",
+    "static/js/3.7060ffe5.chunk.js.map": "/apsthrph.github.io/my-app/static/js/3.7060ffe5.chunk.js.map",
+    "index.html": "/apsthrph.github.io/my-app/index.html",
+    "static/css/2.55d8add8.chunk.css.map": "/apsthrph.github.io/my-app/static/css/2.55d8add8.chunk.css.map",
+    "static/css/main.eeb8520e.chunk.css.map": "/apsthrph.github.io/my-app/static/css/main.eeb8520e.chunk.css.map",
+    "static/js/2.5f162113.chunk.js.LICENSE.txt": "/apsthrph.github.io/my-app/static/js/2.5f162113.chunk.js.LICENSE.txt",
+    "static/media/Dimas.c770dea3.jpg": "/apsthrph.github.io/my-app/static/media/Dimas.c770dea3.jpg",
+    "static/media/Fadel.47b32bb2.jpg": "/apsthrph.github.io/my-app/static/media/Fadel.47b32bb2.jpg",
+    "static/media/Instruction_1.e1fa8ee3.JPG": "/apsthrph.github.io/my-app/static/media/Instruction_1.e1fa8ee3.JPG",
+    "static/media/Instruction_2.39f801b1.JPG": "/apsthrph.github.io/my-app/static/media/Instruction_2.39f801b1.JPG",
+    "static/media/Instruction_3.2fad0079.JPG": "/apsthrph.github.io/my-app/static/media/Instruction_3.2fad0079.JPG",
+    "static/media/Instruction_4.9cf5325b.JPG": "/apsthrph.github.io/my-app/static/media/Instruction_4.9cf5325b.JPG",
+    "static/media/Instruction_5.660e62a5.JPG": "/apsthrph.github.io/my-app/static/media/Instruction_5.660e62a5.JPG",
+    "static/media/Instruction_6.9d8957d9.JPG": "/apsthrph.github.io/my-app/static/media/Instruction_6.9d8957d9.JPG",
+    "static/media/Tanur.9bd9400e.jpg": "/apsthrph.github.io/my-app/static/media/Tanur.9bd9400e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a75a3181.js",
+    "static/css/2.55d8add8.chunk.css",
+    "static/js/2.5f162113.chunk.js",
+    "static/css/main.eeb8520e.chunk.css",
+    "static/js/main.f2867a91.chunk.js"
+  ]
+}
